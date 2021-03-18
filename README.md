@@ -1,2 +1,2 @@
 ### List of Contents
-[Databricks QlikView Integration](/databricks-qlikview/)
+[Databricks QlikView Integration](/azure/databricks-qlikview/)
