@@ -17,7 +17,7 @@
    User Settings &#8594; Generate New Token
    - Copy this data to some file for further use
 
-2. Download Simba ODBC Driver from the link [Databricks-Simba-odbc-driver](https://databricks.com/spark/odbc-drivers-download) or alternatively get it from this git [prerequisites/SimbaODBCDriver.zip](prerequisites/SimbaSparkODBC-2.6.16.1019-Windows-64bit.zip)
+2. Download Simba ODBC Driver from the link [Databricks-Simba-odbc-driver](https://databricks.com/spark/odbc-drivers-download) or alternatively get it from this git [prerequisites/SimbaODBCDriver.zip](https://github.com/Vinay26k/azure/blob/adb-qlikview-integration/databricks-qlikview/prerequisites/SimbaSparkODBC-2.6.16.1019-Windows-64bit.zip)
 3. After extracting the downloaded file, we will have msi installer file as follows:
    ![SimbaExtracted](assets/SimbaExtracted.png)
 4. Install the driver, by choosing appropriate options
