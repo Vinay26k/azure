@@ -34,7 +34,7 @@ Related Article: [Setup QlikView Databricks Integration with Simba Driver](Setup
     | HTTP Options       | ```HTTP_PATH_FROM_DATABRICKS_CLUSTER``` (*this is enabled only when we change Thrift Transport setting*) |
 
 3. Test Connection (this starts the cluster if it's in terminated state and wait for the respone from cluster to the DSN ODBC driver Setup)
-   - Result from DSN Setup
+   - Result from DSN Setup<br/>
     ![qlik-odbc-success](assets/qlik-odbc-connection.png)
    - Spark UI/ Session details
     ![spark-session](assets/sparkUI-sqlSession.png)
