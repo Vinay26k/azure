@@ -25,7 +25,7 @@
    Control Panel &#8594; View by (Large Icons) at top right corner &#8594; Administrative Tools
    ![cp-admintools](assets/cp-admintools.png)
    ![datasources](assets/datasources.png)
-6. Click Add in User DSN/ System DSN, based on your needs.
+6. Click Add in User DSN/ System DSN, based on your needs.<br/>
    ![create-dsn](assets/create-dsn.png)
 7. Make sure to select/ update with following configuration
    
