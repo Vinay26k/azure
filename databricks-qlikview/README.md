@@ -3,7 +3,9 @@
 - [x] Azure Databricks
 - [x] QlikView Desktop (with QlikOdbcConnectorPackage_setup.exe installed)
 
-Related Article: [Setup QlikView Databricks Integration with Simba Driver](Setup-with-SimbaDriver.md)
+### Related Articles
+1. [Setup QlikView Databricks Integration with Simba Driver](Setup-with-SimbaDriver.md)
+2. [Service Principal Authentication to Databricks for Qlik View Using Simba Driver](Service-Principal-Authentication.md)
 
 
 ### Instructions
