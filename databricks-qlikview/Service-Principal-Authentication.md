@@ -13,8 +13,7 @@
     Configuration tab &#8594; Advanced Settings &#8594; JDBC/ODBC
    - Gather following highlighted details <br/>
         ![Cluster-config](assets/clusterConfig.png)
-   - Generate personal token in Azure Databricks with proper comment and Lifetime (0 for live indefinitely)<br/>
-   User Settings &#8594; Generate New Token
+   - Generate AAD token
    - Copy this data to some file for further use
 
 2. Download Simba ODBC Driver from the link [Databricks-Simba-odbc-driver](https://databricks.com/spark/odbc-drivers-download) or alternatively get it from this git [prerequisites/SimbaODBCDriver.zip](prerequisites/SimbaSparkODBC-2.6.16.1019-Windows-64bit.zip)
