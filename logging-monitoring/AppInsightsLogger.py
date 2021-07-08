@@ -25,6 +25,8 @@ STATIC_MEASURES = {
 
 class AppInsightsLogger:
     def __init__(self, props={}, measures={}) -> None:
+        self.start_time = time.time()
+
         ## telemetry config
         self.tc = TelemetryClient(os.getenv("APPINSIGHTS_INSTRUMENTATIONKEY"))
         self.send_log(props={**STATIC_PROPS, **{"LoggerMessage": "Logger has been initialized"}}, measures={**STATIC_MEASURES, **{"RunTime": time.time() - self.start_time}})
